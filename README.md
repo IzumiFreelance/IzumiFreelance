@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="Coding GIF" width="400" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="Coding GIF" width="400" style="border-radius: 10px;" />
 
 ### 👨‍💻 Professional Profile:
 - 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
@@ -19,7 +19,8 @@
 - 🤝 Strong believer in collaborative development and knowledge sharing
 - 📫 Contact: **izumiFreelance@gmail.com**
 - ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
-  
+
+---
 
 ### 🛠️ Technical Expertise:
 
@@ -27,72 +28,74 @@
   <table>
     <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50" style="border-radius: 10%;" />
         <br><b>HTML5</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" style="border-radius: 10%;" />
         <br><b>CSS3</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" style="border-radius: 10%;" />
         <br><b>JavaScript</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" style="border-radius: 10%;" />
         <br><b>React</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" style="border-radius: 10%;" />
         <br><b>TypeScript</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Node.js</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Python</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Tailwind CSS</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Firebase</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Redux</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="130">
-        <img src="https://cdn-icons-png.freepik.com/256/17069/17069564.png?semt=ais_hybrid" alt="db" width="50" height="50" />
-        <br><b>DataBase</b>
+        <img src="https://cdn-icons-png.freepik.com/256/17069/17069564.png?semt=ais_hybrid" alt="db" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Database</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50" style="border-radius: 10%;" />
         <br><b>MongoDB</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Git</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Docker</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" style="border-radius: 10%;" />
         <br><b>GitHub</b>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ### 🚀 Featured Projects:
 - 🌐 **Full-Stack E-Commerce Platform**
@@ -102,12 +105,16 @@
   - Developed using Next.js and TypeScript
   - Integrated machine learning for smart task prioritization
 
+---
+
 ### 📊 GitHub Analytics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izumifreelance&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450" />
 </div>
+
+---
 
 ### 🌐 Connect With Me:
 <p align="center">
