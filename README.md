@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](www.linkedin.com/in/altaf-hussain-325967324)
-<img align="right" alt="Coding" src="https://cdn.dribbb1e.com/usersA162Ø77/screenshots/3848914/programmer.gif">
-<h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")<h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
 <h3 align="center">A passionate developer that does random things🐱‍👤🐱‍👤🌌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izumifreelance&label=Profile%20views&color=0e75b6&style=flat" alt="izumifreelance" /> </p>
