@@ -20,6 +20,7 @@
 - 🎯 Current Focus: Building production-ready applications that prioritize **performance**, **scalability**, and **security**
 - 📫 Contact: **izumiFreelance@gmail.com**
 - ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
+- 👨‍💻 Talent: I can spend hours debugging code but still celebrate fixing a single semicolon error like I won the lottery!
 
 ---
 
