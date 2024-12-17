@@ -127,9 +127,9 @@
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
-  <a href="https://dev.to/izumifreelance" target="_blank">
+<!--   <a href="https://dev.to/izumifreelance" target="_blank">
     <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
-  </a>
+  </a> -->
 </p>
 
 ---
