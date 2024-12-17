@@ -14,11 +14,28 @@
 ### 👨‍💻 Professional Profile:
 - 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
 - 🌱 Deep diving into **TypeScript**, **Advanced CSS**, and **AI-Driven Development**
-- 🚀 Exploring cutting-edge technologies in **Blockchain** and **Web3**
+- 🚀 Exploring cutting-edge technologies in **Blockchain**, **Web3**, and **AI-Powered Apps**
 - 💡 Passionate about creating scalable and efficient web applications
 - 🤝 Strong believer in collaborative development and knowledge sharing
+- 🎯 Current Focus: Building production-ready applications that prioritize **performance**, **scalability**, and **security**
 - 📫 Contact: **izumiFreelance@gmail.com**
 - ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
+
+---
+
+### 🏆 Achievements & Certifications:
+- ✅ **Certified JavaScript Developer** – Completed a project-intensive certification program.
+- 🌟 **Top Contributor** on open-source repositories with over **1k+ stars** collectively.
+- 🏅 Recognized as a **GitHub Trending Developer** for contributing to innovative repositories.
+- 📜 Completed **Blockchain Development Specialization** (2023).
+- 🏆 Multiple hackathon wins, including **Best Innovation** and **Efficient Codebase Award**.
+
+---
+
+### ✨ Highlights:
+- 👨‍🏫 **Mentorship**: Mentored 50+ aspiring developers and hosted workshops on **React** and **TypeScript**.
+- 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
+- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, **Hashnode**, and **Stack Overflow**.
 
 ---
 
@@ -104,6 +121,8 @@
 - 💡 **AI-Powered Task Management App**
   - Developed using Next.js and TypeScript
   - Integrated machine learning for smart task prioritization
+- 🔐 **Blockchain-Based Authentication System**
+  - Developed secure login using Web3.js and Ethereum smart contracts
 
 ---
 
@@ -127,9 +146,9 @@
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
-<!--   <a href="https://dev.to/izumifreelance" target="_blank">
+  <a href="https://dev.to/izumifreelance" target="_blank">
     <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
-  </a> -->
+  </a>
 </p>
 
 ---
