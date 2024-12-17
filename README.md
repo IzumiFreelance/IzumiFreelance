@@ -19,7 +19,7 @@
 - 🤝 Strong believer in collaborative development and knowledge sharing
 - 📫 Contact: **izumiFreelance@gmail.com**
 - ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
-- 
+  
 
 ### 🛠️ Technical Expertise:
 
@@ -114,7 +114,7 @@
   <a href="https://www.linkedin.com/in/altaf-hussain-325967324" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/its" target="_blank">
+  <a href="https://instagram.com/its_Altaf_Hussain_3" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
