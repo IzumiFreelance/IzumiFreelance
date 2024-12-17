@@ -18,6 +18,8 @@
 - 💡 Passionate about creating scalable and efficient web applications
 - 🤝 Strong believer in collaborative development and knowledge sharing
 - 📫 Contact: **izumiFreelance@gmail.com**
+- ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
+- 
 
 ### 🛠️ Technical Expertise:
 
