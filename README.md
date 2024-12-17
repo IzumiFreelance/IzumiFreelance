@@ -23,22 +23,76 @@
 
 <div align="center">
   <h3 style="color: #FFC107;">🚀 Tech Stack:</h3>
-  <p>
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40" />
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" />
+        <br><b>CSS3</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" />
+        <br><b>React</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" />
+        <br><b>TypeScript</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" />
+        <br><b>Node.js</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
+        <br><b>Python</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" />
+        <br><b>Tailwind CSS</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" />
+        <br><b>Firebase</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
+        <br><b>Redux</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="50" height="50" />
+        <br><b>GraphQL</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50" />
+        <br><b>MongoDB</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
+        <br><b>Git</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50" />
+        <br><b>Docker</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" />
+        <br><b>GitHub</b>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
