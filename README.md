@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
 <h1 align="center" style="font-size: 50px; color: #4CAF50;">Hi 👋, I'm Altaf Hussain</h1>
@@ -29,6 +43,13 @@
 - 🏅 Recognized as a **GitHub Trending Developer** for contributing to innovative repositories.
 - 📜 Completed **Blockchain Development Specialization** (2023).
 - 🏆 Multiple hackathon wins, including **Best Innovation** and **Efficient Codebase Award**.
+
+---
+
+### ✨ Highlights:
+- 👨‍🏫 **Mentorship**: Mentored 50+ aspiring developers and hosted workshops on **React** and **TypeScript**.
+- 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
+- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, **Hashnode**, and **Stack Overflow**.
 
 ---
 
@@ -80,28 +101,42 @@
         <br><b>Redux</b>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://cdn-icons-png.freepik.com/256/17069/17069564.png?semt=ais_hybrid" alt="db" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Database</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>MongoDB</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Git</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Docker</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>GitHub</b>
+      </td>
+    </tr>
   </table>
 </div>
 
 ---
 
-### 🌐 3D Animated Showcase:
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" alt="React Logo" style="animation: rotate 5s linear infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="JavaScript Logo" style="animation: rotate 5s linear infinite;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" alt="Node.js Logo" style="animation: rotate 5s linear infinite;" />
-  <style>
-    @keyframes rotate {
-      from {
-        transform: rotate(0deg);
-      }
-      to {
-        transform: rotate(360deg);
-      }
-    }
-  </style>
-</div>
+### 🚀 Featured Projects:
+- 🌐 **Full-Stack E-Commerce Platform**
+  - Built with React, Node.js, and MongoDB
+  - Implemented advanced state management with Redux
+- 💡 **AI-Powered Task Management App**
+  - Developed using Next.js and TypeScript
+  - Integrated machine learning for smart task prioritization
+- 🔐 **Blockchain-Based Authentication System**
+  - Developed secure login using Web3.js and Ethereum smart contracts
 
 ---
 
@@ -117,16 +152,16 @@
 ### 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/altaf-hussain-325967324" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/its_Altaf_Hussain_3" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
   <a href="https://dev.to/izumifreelance" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-shadow-tal-revivo.png" alt="Dev.to" />
+    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
   </a>
 </p>
 
