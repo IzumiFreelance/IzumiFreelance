@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #E91E63;">A passionate developer exploring the digital universe 🐱‍👤🌌</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+to+Collaboration;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,11 +12,12 @@
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="Coding GIF" width="400" />
 
 ### 👨‍💻 About Me:
-- 🔭 Currently building dynamic web apps with **React** and **Next.js**  
-- 🌱 Learning **TypeScript**, advanced CSS, and **AI integrations**  
-- 💬 Ask me about **web development**, **React ecosystems**, and **project planning**  
+- 🔭 Currently building dynamic web apps with **React**, **Next.js**, and **Node.js**  
+- 🌱 Learning **TypeScript**, advanced **CSS**, and **AI integrations**  
+- 🛠️ Exploring **Blockchain** and **Web3** technologies  
+- 💬 Ask me about **web development**, **React ecosystems**, and **team collaboration**  
 - 📫 Reach me at **izumiFreelance@gmail.com**  
-- ⚡ Fun Fact: Debugging a semicolon makes me feel like I cracked the Enigma code! 🕵️‍♂️
+- ⚡ Fun Fact: Debugging feels like solving a mystery game 🕵️‍♂️  
 
 ---
 
@@ -35,12 +36,13 @@
     <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40" />
   </p>
 </div>
 
 ---
 
-<h3 align="left" style="color: #00BCD4;">🎨 GitHub Stats:</h3>
+<h3 align="center" style="color: #8BC34A;">📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" />
@@ -49,7 +51,7 @@
 
 ---
 
-<h3 align="center" style="color: #8BC34A;">🌐 Connect With Me:</h3>
+<h3 align="center" style="color: #FF5722;">🌐 Let's Connect:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/altaf-hussain-325967324" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
@@ -60,6 +62,9 @@
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
+  <a href="https://dev.to/izumifreelance" target="_blank">
+    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
+  </a>
 </p>
 
 ---
@@ -67,6 +72,7 @@
 <h3 align="center" style="color: #673AB7;">✨ Fun Widgets:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes Widget" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumifreelance&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
