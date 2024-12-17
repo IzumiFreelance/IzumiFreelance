@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
+[![MasterHead](https://raw.githubusercontent.com/IzumiFreelance/your-repo/main/assets/header-banner.png)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
 <h1 align="center" style="font-size: 50px; color: #4CAF50;">Hi 👋, I'm Altaf Hussain</h1>
 <h3 align="center" style="color: #E91E63;">A passionate developer exploring the digital universe 🐱‍👤🌌</h3>
@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Coding GIF" width="400" />
+<img align="right" src="https://raw.githubusercontent.com/IzumiFreelance/your-repo/main/assets/coding.gif" alt="Coding GIF" width="400" />
 
 ### 👨‍💻 About Me:
 - 🔭 Currently building dynamic web apps with **React** and **Next.js**  
@@ -64,9 +64,9 @@
 
 <h3 align="center" style="color: #00BCD4;">🎨 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izumifreelance&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IzumiFreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IzumiFreelance&theme=radical" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzumiFreelance&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450" />
 </div>
 
 ---
@@ -89,7 +89,7 @@
 <h3 align="center" style="color: #FF5722;">✨ Fun Widgets:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes Widget" />
-  <img src="https://media.giphy.com/media/3o6ZsYm5Nk3w5vENsk/giphy.gif" alt="Cool GIF" width="400" />
+  <img src="https://raw.githubusercontent.com/IzumiFreelance/your-repo/main/assets/cool-gif.gif" alt="Cool GIF" width="400" />
 </p>
 
 ---
