@@ -24,18 +24,17 @@
 ---
 
 ### 🏆 Achievements & Certifications:
-- ✅ **Certified JavaScript Developer** – Completed a project-intensive certification program.
-- 🌟 **Top Contributor** on open-source repositories with over **1k+ stars** collectively.
-- 🏅 Recognized as a **GitHub Trending Developer** for contributing to innovative repositories.
-- 📜 Completed **Blockchain Development Specialization** (2023).
-- 🏆 Multiple hackathon wins, including **Best Innovation** and **Efficient Codebase Award**.
+- ✅ **Certified Developer** – Completed a project-intensive certification program.
+- 📜 Completed **Front-end Development Specialization** (2022).
+- 🤖 Trained my own AI-module
+- 👨‍💻 Completed a 9-monts internship
 
 ---
 
 ### ✨ Highlights:
-- 👨‍🏫 **Mentorship**: Mentored 50+ aspiring developers and hosted workshops on **React** and **TypeScript**.
+- 👨‍🏫 **Mentorship**: Mentored 20+ aspiring developers and hosted workshops on **Front-end Development**.
 - 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
-- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, **Hashnode**, and **Stack Overflow**.
+- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, and **Stack Overflow**.
 
 ---
 
