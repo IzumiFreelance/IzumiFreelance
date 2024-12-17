@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
 <h3 align="center">A passionate developer that does random things🐱‍👤🐱‍👤🌌</h3>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="Description of the image" />
+<img align="right" alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="Description of the image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izumifreelance&label=Profile%20views&color=0e75b6&style=flat" alt="izumifreelance" /> </p>
 
