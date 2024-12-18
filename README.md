@@ -28,7 +28,7 @@
 - ✅ **Certified Developer** – Completed a project-intensive certification program.
 - 📜 Completed **Front-end Development Specialization** (2022).
 - 🤖 Trained my own AI-module
-- 👨‍💻 Completed a 9-month internship
+- 👨‍💻 Completed a 9-monts internship
 
 ---
 
@@ -85,6 +85,28 @@
       <td align="center" width="130">
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" style="border-radius: 10%;" />
         <br><b>Redux</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://cdn-icons-png.freepik.com/256/17069/17069564.png?semt=ais_hybrid" alt="db" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Database</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>MongoDB</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Git</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>Docker</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" style="border-radius: 10%;" />
+        <br><b>GitHub</b>
       </td>
     </tr>
   </table>
