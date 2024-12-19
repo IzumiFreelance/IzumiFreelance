@@ -111,8 +111,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" width="450" />
 </div>
 
-
-
 ---
 
 ### 🌐 Connect With Me:
