@@ -106,9 +106,11 @@
 
 ### 📊 GitHub Analytics:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
-  <img src="https://streak-stats.demolab.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" />
+  <br><br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=izumifreelance&theme=radical)](https://git.io/streak-stats)
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" />
 </div>
 ---
 
