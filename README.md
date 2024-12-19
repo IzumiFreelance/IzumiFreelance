@@ -108,6 +108,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumiFreelance&theme=radical" alt="GitHub Streak" width="450" />
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" width="450" /> <img src="https://github-contributor-streak.vercel.app/?user=izumifreelance&theme=radical" alt="GitHub Contribution Streak" width="450" /> </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" width="450" />
 </div>
 
