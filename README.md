@@ -1,4 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical)
+
 
 <h1 align="center" style="font-size: 50px; color: #4CAF50;">Hi 👋, I'm Altaf Hussain</h1>
 <h3 align="center" style="color: #E91E63;">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</h3>
