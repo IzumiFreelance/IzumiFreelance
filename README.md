@@ -46,7 +46,7 @@
   <table>
     <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50" />
+        <img src="link.png" alt="HTML" width="50" height="50" />
         <br><b>HTML5</b>
       </td>
       <td align="center" width="130">
