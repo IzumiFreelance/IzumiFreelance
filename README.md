@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqaXg2aDhvOWRiajJjcjdteGhiaHp5czQzYmZmYTFuNGFvZmExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="Coding GIF" width="400" style="border-radius: 10px;" />
+<img align="right" src="link.png" alt="Coding GIF" width="400" style="border-radius: 10px;" />
 
 ### 👨‍💻 Professional Profile:
 - 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
