@@ -90,7 +90,7 @@
     </tr>
         <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logo/vitejs" alt="Vite.js" width="50" height="50" />
+        <img src="[https://cdn.worldvectorlogo.com/logo/vitejs](https://cdn.worldvectorlogo.com/logos/vitejs.svg)" alt="Vite.js" width="50" height="50" />
         <br><b>Vitejs</b>
       </td>
       <td align="center" width="130">
