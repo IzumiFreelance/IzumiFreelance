@@ -94,20 +94,20 @@
         <br><b>Vitejs</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
-        <br><b>Python</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
+        <br><b>Nextjs</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" />
-        <br><b>Tailwind CSS</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" width="50" height="50" />
+        <br><b>Jquery</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" />
-        <br><b>Firebase</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/rapid-api.svg" alt="Rapid-api" width="50" height="50" />
+        <br><b>Rapid API</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
-        <br><b>Redux</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="50" height="50" />
+        <br><b>React Native</b>
       </td>
     </tr>
   </table>
