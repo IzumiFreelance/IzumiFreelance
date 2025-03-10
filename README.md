@@ -15,17 +15,19 @@
 
 ![]()  
   
+<img align="right" src="link.png" alt="Coding GIF" width="400" style="border-radius: 10px;" />
 
-- 🌱 Deep diving into TypeScript, Advanced CSS, and AI-Driven Development  
-  
+### 👨‍💻 Professional Profile:
+- 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
+- 🌱 Deep diving into **TypeScript**, **Advanced CSS**, and **AI-Driven Development**
+- 🚀 Exploring cutting-edge technologies in **Blockchain**, **Web3**, and **AI-Powered Apps**
+- 💡 Passionate about creating scalable and efficient web applications
+- 🤝 Strong believer in collaborative development and knowledge sharing
+- 🎯 Current Focus: Building production-ready applications that prioritize **performance**, **scalability**, and **security**
+- 📫 Contact: **izumiFreelance@gmail.com**
+- ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
+- 👨‍💻 Talent: I can spend hours debugging code but still celebrate fixing a single semicolon error like I won the lottery!
 
-- 🔭 Crafting innovative web solutions with React, Next.js, and Node.js  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 ![]()  
