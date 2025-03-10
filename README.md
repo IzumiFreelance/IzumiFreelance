@@ -33,6 +33,9 @@
 
 ---
 
+<img align="left" src="[https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3lLL7_i4Kq6U9LUoMlqaMo&ust=1741692497983000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCUtb_hgIwDFQAAAAAdAAAAABAJ)" width="400" />
+
+
 ### ✨ Highlights:
 - 👨‍🏫 **Mentorship**: Mentored 20+ aspiring developers and hosted workshops on **Front-end Development**.
 - 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
