@@ -45,6 +45,10 @@
 <div align="center">
   <table>
     <tr>
+        <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="CSS" width="50" height="50" />
+        <br><b>HTML</b>
+      </td>
       <td align="center" width="130">
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" />
         <br><b>CSS3</b>
