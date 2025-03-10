@@ -1,15 +1,3 @@
-ChatGPT
-You said:
-im a developer and make me a cool redme for github 
-ChatGPT said:
-Here's a badass, godly, and perfect README for your GitHub profile:
-
-
-
-
-
-
-You said:
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
 
