@@ -90,8 +90,8 @@
     </tr>
         <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logo/vitejs" alt="Node.js" width="50" height="50" />
-        <br><b>Node.js</b>
+        <img src="https://cdn.worldvectorlogo.com/logo/vitejs" alt="Vite.js" width="50" height="50" />
+        <br><b>Vitejs</b>
       </td>
       <td align="center" width="130">
         <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
