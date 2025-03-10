@@ -160,7 +160,6 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
----
 
 <div align="center">
   <h3 style="color: #FF5722;">🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
