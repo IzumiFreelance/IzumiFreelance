@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td align="center" width="130">
-        <img src="https://worldvectorlogo.com/logo/next-js" alt="Node.js" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logo/nodejs-1" alt="Node.js" width="50" height="50" />
         <br><b>Node.js</b>
       </td>
       <td align="center" width="130">
