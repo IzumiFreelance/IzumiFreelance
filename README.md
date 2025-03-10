@@ -7,7 +7,11 @@
 
 ### Hi 👋, I'm Altaf Hussain  
 ### <div align="center">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</div>  
-  
+
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;AI+and+Blockchain+Explorer;Net+Philosopher" alt="Typing SVG" />
+</div>
+
 
 ![]()  
   
@@ -149,6 +153,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
