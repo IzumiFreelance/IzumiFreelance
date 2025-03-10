@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
-<h1 align="center" style="font-size: 50px; color: #4CAF50;">Hi 👋, I'm Altaf Hussain</h1>
-<h3 align="center" style="color: #E91E63;">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</h3>
+<h1 align="center" style="font-size: 50px; color: #4CAF50; text-shadow: 2px 2px 4px #000000;">Hi 👋, I'm Altaf Hussain</h1>
+<h3 align="center" style="color: #E91E63; text-shadow: 1px 1px 2px #000000;">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;Problem+Solver" alt="Typing SVG">
@@ -44,45 +44,45 @@
   <table>
     <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML5" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML5" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>HTML5</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>CSS3</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>JavaScript</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>React</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>TypeScript</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>Node.js</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>Python</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>Tailwind CSS</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>Firebase</b>
       </td>
       <td align="center" width="130">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" style="transform: rotateY(360deg); transition: transform 0.5s;" />
         <br><b>Redux</b>
       </td>
     </tr>
@@ -116,23 +116,23 @@
 ### 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/altaf-hussain-282ba9218" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="transform: scale(1.1); transition: transform 0.3s;" />
   </a>
   <a href="https://instagram.com/tdeghgg" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="transform: scale(1.1); transition: transform 0.3s;" />
   </a>
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="transform: scale(1.1); transition: transform 0.3s;" />
   </a>
   <a href="https://dev.to/izumifreelance" target="_blank">
-    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
+    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" style="transform: scale(1.1); transition: transform 0.3s;" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <h3 style="color: #FF5722;">🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
+  <h3 style="color: #FF5722; text-shadow: 1px 1px 2px #000000;">🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
   <p>Always learning, always growing. Let's build something amazing together!</p>
 </div>
 
