@@ -88,6 +88,28 @@
         <br><b>Redux</b>
       </td>
     </tr>
+        <tr>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" />
+        <br><b>Node.js</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
+        <br><b>Python</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" />
+        <br><b>Tailwind CSS</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" />
+        <br><b>Firebase</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
+        <br><b>Redux</b>
+      </td>
+    </tr>
   </table>
 </div>
 
