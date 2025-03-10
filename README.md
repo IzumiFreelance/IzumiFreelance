@@ -10,7 +10,7 @@
 
 ---
 
-<img align="" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF" />
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF" width="800px"/>
 
 ### 👨‍💻 Professional Profile:
 - 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
