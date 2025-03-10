@@ -31,7 +31,23 @@
   
 
 ![]()  
-  
+  ---
+
+### 🏆 Achievements & Certifications:
+- ✅ **Certified Developer** – Completed a project-intensive certification program.
+- 📜 Completed **Front-end Development Specialization** (2022).
+- 🤖 Trained my own AI module.
+- 👨‍💻 Completed a 9-month internship.
+
+---
+
+### ✨ Highlights:
+- 👨‍🏫 **Mentorship**: Mentored 20+ aspiring developers and hosted workshops on **Front-end Development**.
+- 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
+- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, and **Stack Overflow**.
+
+---
+
 
 ![]()  
   
