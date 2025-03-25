@@ -1,35 +1,18 @@
-[![MasterHead](https://i.imgur.com/ZFUH5mu.png)](https://www.linkedin.com/in/altaf-hussain-325967324)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
+
+
+<h1 align="center" style="font-size: 50px; color: #4CAF50;">Hi 👋, I'm Altaf Hussain</h1>
+<h3 align="center" style="color: #E91E63;">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Altaf+Hussain;Full-Stack+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;AI+and+Blockchain+Explorer;Net+Philosopher" alt="Typing SVG" />
 </div>
-
-<h3 align="center"><span style="color: #4CAF50;">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</span></h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izumifreelance&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="Trophy" /></a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;AI+and+Blockchain+Explorer;Net+Philosopher" alt="Typing SVG" />
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQyYzQxZjBhNDlhMzU5N2UzMmZlYjAzODMxYTQ4OWUwNTk0ZmFlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
-<div align="left">
-  <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Professional Profile</h2>
-</div>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF" width="500px"/>
 
+### 👨‍💻 Professional Profile:
 - 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
 - 🌱 Deep diving into **TypeScript**, **Advanced CSS**, and **AI-Driven Development**
 - 🚀 Exploring cutting-edge technologies in **Blockchain**, **Web3**, and **AI-Powered Apps**
@@ -38,253 +21,150 @@
 - 🎯 Current Focus: Building production-ready applications that prioritize **performance**, **scalability**, and **security**
 - 📫 Contact: **izumiFreelance@gmail.com**
 - ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
+- 👨‍💻 Talent: I can spend hours debugging code but still celebrate fixing a single semicolon error like I won the lottery!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
+---
 
-<!-- activity graph start -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My GitHub Activity</h2>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumifreelance&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-<!-- activity graph end -->
+### 🏆 Achievements & Certifications:
+- ✅ **Certified Developer** – Completed a project-intensive certification program.
+- 📜 Completed **Front-end Development Specialization** (2022).
+- 🤖 Trained my own AI module.
+- 👨‍💻 Completed a 9-month internship.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
+---
 
-<div align="left">
-  <h2><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> Achievements & Certifications</h2>
-</div>
 
-<div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-certificate-achievements-flaticons-lineal-color-flat-icons.png" alt="Certificate"/>
-        <p>✅ <b>Certified Developer</b> – Completed a project-intensive certification program</p>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-achievement-achievements-flaticons-lineal-color-flat-icons-3.png" alt="Achievement"/>
-        <p>📜 Completed <b>Front-end Development Specialization</b> (2022)</p>
-      </td>
-    </tr>
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-robot-robotics-flaticons-lineal-color-flat-icons.png" alt="AI"/>
-        <p>🤖 Trained my own AI module</p>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-internship-university-flaticons-lineal-color-flat-icons.png" alt="Internship"/>
-        <p>👨‍💻 Completed a 9-month internship</p>
-      </td>
-    </tr>
-  </table>
-</div>
+### ✨ Highlights:
+- 👨‍🏫 **Mentorship**: Mentored 20+ aspiring developers and hosted workshops on **Front-end Development**.
+- 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
+- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, and **Stack Overflow**.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
+---
 
-<div align="left">
-  <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Highlights</h2>
-</div>
-
-<div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mentor-online-education-flaticons-lineal-color-flat-icons.png" alt="Mentorship"/>
-        <p>👨‍🏫 <b>Mentorship</b>: Mentored 20+ aspiring developers and hosted workshops on <b>Front-end Development</b></p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-code-review-web-development-flaticons-lineal-color-flat-icons.png" alt="Code Review"/>
-        <p>🔍 <b>Code Reviewer</b>: Regularly contribute to open-source reviews, ensuring high-quality code and readability</p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-community-charity-flaticons-lineal-color-flat-icons-3.png" alt="Community"/>
-        <p>🌍 <b>Community Engagement</b>: Active member of developer communities like <b>Dev.to</b> and <b>Stack Overflow</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<div align="left">
-  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Expertise</h2>
-</div>
+### 🛠️ Technical Expertise:
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html" width="50" height="50" />
         <br><b>HTML</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50" />
         <br><b>CSS3</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" />
         <br><b>JavaScript</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" />
         <br><b>React</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" />
         <br><b>TypeScript</b>
       </td>
     </tr>
     <tr>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" />
         <br><b>Node.js</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" />
         <br><b>Python</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50" />
         <br><b>Tailwind CSS</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50" />
         <br><b>Firebase</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
         <br><b>Redux</b>
       </td>
     </tr>
-    <tr>
+        <tr>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+        <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite.js" width="50" height="50" />
         <br><b>Vitejs</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
         <br><b>Nextjs</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-        <br><b>jQuery</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" width="50" height="50" />
+        <br><b>Jquery</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br><b>MongoDB</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/rapid-api.svg" alt="Rapid-api" width="50" height="50" />
+        <br><b>Rapid API</b>
       </td>
       <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br><b>Git</b>
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="50" height="50" />
+        <br><b>React Native</b>
       </td>
     </tr>
   </table>
 </div>
 
-<br />
+---
+
+### 🚀 Featured Projects:
+- 🌐 **Full-Stack E-Commerce Platform**
+  - Built with React, Node.js, and MongoDB
+  - Implemented advanced state management with Redux
+- 💡 **AI-Powered Task Management App**
+  - Developed using Next.js and TypeScript
+  - Integrated machine learning for smart task prioritization
+- 🔐 **Blockchain-Based Authentication System**
+  - Developed secure login using Web3.js and Ethereum smart contracts
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=izumifreelance&layout=compact&theme=radical&hide_border=true&custom_title=⏱️ Weekly Development Breakdown" alt="Weekly Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" width="450" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
 
-<div align="left">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects</h2>
-</div>
 
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ecommerce-platform&theme=radical&hide_border=true" alt="E-Commerce Platform" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ai-task-manager&theme=radical&hide_border=true" alt="AI Task Manager" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=blockchain-auth&theme=radical&hide_border=true" alt="Blockchain Auth" />
-  </a>
-</div>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<div align="left">
-  <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Analytics</h2>
-</div>
-
+### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://github.com/izumifreelance">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical&hide_border=true" alt="izumifreelance's github streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<div align="left">
-  <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me</h2>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/altaf-hussain-325967324" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/altaf-hussain-282ba9218" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/tdeghgg" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
   <a href="https://dev.to/izumifreelance" target="_blank">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
   </a>
-  <a href="https://twitter.com/izumifreelance" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
+</p>
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/izumifreelance" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<div align="center">
-  <h2>✍️ Random Dev Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
-</div>
-
-<div align="center">
-  <h3>🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
+  <h3 style="color: #FF5722;">🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
   <p>Always learning, always growing. Let's build something amazing together!</p>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=izumifreelance&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div> 
+![Profile Views](https://komarev.com/ghpvc/?username=izumifreelance&color=blueviolet)
