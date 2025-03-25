@@ -1,8 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
-
-<h1 align="center" style="font-size: 50px; color: #4CAF50;">Hi 👋, I'm Altaf Hussain</h1>
-<h3 align="center" style="color: #E91E63;">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</h3>
+<h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Tech Innovator | Problem Solver 🚀</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;AI+and+Blockchain+Explorer;Net+Philosopher" alt="Typing SVG" />
@@ -10,7 +9,7 @@
 
 ---
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF" width="500px"/>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF" width="400"/>
 
 ### 👨‍💻 Professional Profile:
 - 🔭 Crafting innovative web solutions with **React**, **Next.js**, and **Node.js**
@@ -21,23 +20,21 @@
 - 🎯 Current Focus: Building production-ready applications that prioritize **performance**, **scalability**, and **security**
 - 📫 Contact: **izumiFreelance@gmail.com**
 - ⚡ Fun fact: Fixing a semicolon bug feels like winning a marathon! 🏆
-- 👨‍💻 Talent: I can spend hours debugging code but still celebrate fixing a single semicolon error like I won the lottery!
 
 ---
 
 ### 🏆 Achievements & Certifications:
-- ✅ **Certified Developer** – Completed a project-intensive certification program.
-- 📜 Completed **Front-end Development Specialization** (2022).
-- 🤖 Trained my own AI module.
-- 👨‍💻 Completed a 9-month internship.
+- ✅ **Certified Developer** – Completed a project-intensive certification program
+- 📜 Completed **Front-end Development Specialization** (2022)
+- 🤖 Trained my own AI module
+- 👨‍💻 Completed a 9-month internship
 
 ---
 
-
 ### ✨ Highlights:
-- 👨‍🏫 **Mentorship**: Mentored 20+ aspiring developers and hosted workshops on **Front-end Development**.
-- 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability.
-- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to**, and **Stack Overflow**.
+- 👨‍🏫 **Mentorship**: Mentored 20+ aspiring developers and hosted workshops on **Front-end Development**
+- 🔍 **Code Reviewer**: Regularly contribute to open-source reviews, ensuring high-quality code and readability
+- 🌍 **Community Engagement**: Active member of developer communities like **Dev.to** and **Stack Overflow**
 
 ---
 
@@ -46,7 +43,7 @@
 <div align="center">
   <table>
     <tr>
-        <td align="center" width="130">
+      <td align="center" width="130">
         <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html" width="50" height="50" />
         <br><b>HTML</b>
       </td>
@@ -68,7 +65,7 @@
       </td>
     </tr>
     <tr>
-<td align="center" width="130">
+      <td align="center" width="130">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50" />
         <br><b>Node.js</b>
       </td>
@@ -89,7 +86,7 @@
         <br><b>Redux</b>
       </td>
     </tr>
-        <tr>
+    <tr>
       <td align="center" width="130">
         <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite.js" width="50" height="50" />
         <br><b>Vitejs</b>
@@ -131,40 +128,41 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical" alt="GitHub Streak" height="165" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/altaf-hussain-282ba9218" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/altaf-hussain-325967324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/tdeghgg" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:izumiFreelance@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://dev.to/izumifreelance" target="_blank">
-    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 </p>
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
 
 <div align="center">
-  <h3 style="color: #FF5722;">🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
+  <a href="https://www.buymeacoffee.com/izumifreelance" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
   <p>Always learning, always growing. Let's build something amazing together!</p>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=izumifreelance&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=izumifreelance&color=blueviolet) 
