@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;AI+and+Blockchain+Explorer;Net+Philosopher" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 ---
 
@@ -28,7 +28,7 @@
 
 <!-- activity graph start -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumifreelance&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumifreelance&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 <!-- activity graph end -->
 
@@ -40,21 +40,21 @@
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-certificate-achievements-flaticons-lineal-color-flat-icons.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-certificate-achievements-flaticons-lineal-color-flat-icons.png" alt="Certificate"/>
         <p>✅ <b>Certified Developer</b> – Completed a project-intensive certification program</p>
       </td>
       <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-achievement-achievements-flaticons-lineal-color-flat-icons-3.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-achievement-achievements-flaticons-lineal-color-flat-icons-3.png" alt="Achievement"/>
         <p>📜 Completed <b>Front-end Development Specialization</b> (2022)</p>
       </td>
     </tr>
     <tr border="0">
       <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-robot-robotics-flaticons-lineal-color-flat-icons.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-robot-robotics-flaticons-lineal-color-flat-icons.png" alt="AI"/>
         <p>🤖 Trained my own AI module</p>
       </td>
       <td width="50%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-internship-university-flaticons-lineal-color-flat-icons.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-internship-university-flaticons-lineal-color-flat-icons.png" alt="Internship"/>
         <p>👨‍💻 Completed a 9-month internship</p>
       </td>
     </tr>
@@ -69,15 +69,15 @@
   <table border="0" align="center">
     <tr border="0">
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mentor-online-education-flaticons-lineal-color-flat-icons.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mentor-online-education-flaticons-lineal-color-flat-icons.png" alt="Mentorship"/>
         <p>👨‍🏫 <b>Mentorship</b>: Mentored 20+ aspiring developers and hosted workshops on <b>Front-end Development</b></p>
       </td>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-code-review-web-development-flaticons-lineal-color-flat-icons.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-code-review-web-development-flaticons-lineal-color-flat-icons.png" alt="Code Review"/>
         <p>🔍 <b>Code Reviewer</b>: Regularly contribute to open-source reviews, ensuring high-quality code and readability</p>
       </td>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-community-charity-flaticons-lineal-color-flat-icons-3.png"/>
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-community-charity-flaticons-lineal-color-flat-icons-3.png" alt="Community"/>
         <p>🌍 <b>Community Engagement</b>: Active member of developer communities like <b>Dev.to</b> and <b>Stack Overflow</b></p>
       </td>
     </tr>
@@ -170,13 +170,13 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ecommerce-platform&theme=radical&hide_border=true" alt="E-Commerce Platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ecommerce-platform&theme=radical&hide_border=true" alt="E-Commerce Platform" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ai-task-manager&theme=radical&hide_border=true" alt="AI Task Manager" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ai-task-manager&theme=radical&hide_border=true" alt="AI Task Manager" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=blockchain-auth&theme=radical&hide_border=true" alt="Blockchain Auth" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=blockchain-auth&theme=radical&hide_border=true" alt="Blockchain Auth" />
   </a>
 </div>
 
@@ -221,11 +221,7 @@
   </a>
 </div>
 
-<div align="center">
-  <h2>🐍 Watch my contribution graph get eaten by the snake</h2>
-  <img src="https://github.com/izumifreelance/izumifreelance/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
+<!-- Note: For the snake animation to work, you need to set up a GitHub Action workflow -->
 <div align="center">
   <h3>🚀 Turning Code into Solutions, One Commit at a Time! 💻</h3>
   <p>Always learning, always growing. Let's build something amazing together!</p>
