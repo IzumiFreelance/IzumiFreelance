@@ -93,16 +93,16 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 
 <div align="center">
 <a href="https://github.com/izumiFreelance/AniGram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=AniGram" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=AniGram&theme=radical" />
 </a>
-<a href="https://github.com/izumiFreelance/Behance ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=Behance" />
+<a href="https://github.com/izumiFreelance/Behance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=Behance&theme=radical" />
 </a>
 <a href="https://github.com/izumiFreelance/mindful-me">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=mindful-me" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=mindful-me&theme=radical" />
 </a>
 <a href="https://github.com/izumiFreelance/linkdin-clon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=linkdin-clon" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=linkdin-clon&theme=radical" />
 </a>
 </div>
 
@@ -119,6 +119,12 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <h2>⚡ My Contributions ⚡</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izumifreelance/izumifreelance/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
