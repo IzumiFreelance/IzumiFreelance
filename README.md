@@ -122,7 +122,7 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 <div align="center">
   <h2>⚡ My Contributions ⚡</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izumifreelance/national-guard/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izumifreelance/national-guard" />
   <br/><br/>
 </div>
 
