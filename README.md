@@ -143,10 +143,6 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 </div>
 
 <div align="center">
-  <img src="https://github.com/izumifreelance/izumifreelance/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/izumifreelance/izumiFreelance/main/assets/header.gif" alt="Header" />
 </div>
 
