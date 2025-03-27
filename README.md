@@ -64,7 +64,7 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary><b>Backend Development</b></summary>
 <br>
   
@@ -76,7 +76,7 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary><b>DevOps & Tools</b></summary>
 <br>
   
