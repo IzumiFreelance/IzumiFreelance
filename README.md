@@ -149,5 +149,5 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/izumifreelance/izumifreelance/main/assets/header.gif" alt="Header" />
+  <img src="https://raw.githubusercontent.com/izumifreelance/izumiFreelance/main/assets/header.gif" alt="Header" />
 </div>
