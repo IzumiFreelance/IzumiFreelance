@@ -95,8 +95,8 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 <a href="https://github.com/izumiFreelance/AniGram">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=AniGram" />
 </a>
-<a href="https://github.com/izumiFreelance/national-guard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=nationl-guard" />
+<a href="https://github.com/izumiFreelance/national-guard ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=national-guard " />
 </a>
 <a href="https://github.com/izumiFreelance/mindful-me">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=mindful-me" />
