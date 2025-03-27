@@ -92,7 +92,7 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/izumifreelance/ecommerce-platform">
+<a href="https://github.com/izumifreelance/AniGram">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ecommerce-platform&theme=radical" />
 </a>
 <a href="https://github.com/izumifreelance/ai-task-manager">
