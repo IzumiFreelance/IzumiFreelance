@@ -96,13 +96,13 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=AniGram" />
 </a>
 <a href="https://github.com/izumiFreelance/national-guard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=ai-task-manager&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=nation-guard" />
 </a>
 <a href="https://github.com/izumiFreelance/mindful-me">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=blockchain-auth&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=mindful-me" />
 </a>
 <a href="https://github.com/izumiFreelance/linkdin-clon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=portfolio-nextjs&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=linkdin-clon" />
 </a>
 </div>
 
