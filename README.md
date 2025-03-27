@@ -108,7 +108,6 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 <div align="center">
   <h2>⚡ My Contributions ⚡</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izumiFreelance/izumifreelance/output/github-contribution-grid-snake.svg" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumiFreelance&theme=radical&hide_border=true&area=true&point=true" width="100%" />
   <br/><br/>
