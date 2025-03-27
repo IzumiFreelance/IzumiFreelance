@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/izumifreelance/izumifreelance/main/assets/header.gif)](https://www.linkedin.com/in/altaf-hussain-325967324)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Altaf+Hussain;Full-Stack+Developer+%7C+Tech+Innovator;AI+and+Blockchain+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=4CAF50&width=450&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Contributor;AI+and+Blockchain+Explorer;Net+Philosopher" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk3NDRhNGVkMTNiODhkY2ZhZWU0NzYzODQzN2FkM2NhMDdhZjBiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" height="300px" />
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding GIF" width="500px"/>
 
 ## 💫 About Me
 
@@ -138,4 +138,16 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 <div align="center">
   <h2>🚀 Let's Connect and Build Something Amazing Together! 🚀</h2>
   <img src="https://komarev.com/ghpvc/?username=izumifreelance&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/izumifreelance/izumifreelance/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/izumifreelance/izumifreelance/main/assets/header.gif" alt="Header" />
 </div>
