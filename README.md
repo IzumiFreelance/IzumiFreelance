@@ -112,10 +112,7 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumiFreelance&theme=radical&hide_border=true&area=true&point=true" width="100%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=izumiFreelance&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/contributions?username=izumiFreelance&theme=radical&hide_border=true" alt="Contribution Stats" />
-</div>
+ </div>
 
 ## 📊 GitHub Analytics
 
