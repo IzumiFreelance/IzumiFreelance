@@ -17,7 +17,7 @@
   <a href="https://instagram.com/tdeghgg">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.buymeacoffee.com/izumifreelance">
+  <a href="https://www.buymeacoffee.com/izumiFreelance">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
@@ -143,11 +143,6 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2>🚀 Let's Connect and Build Something Amazing Together! 🚀</h2>
-  <img src="https://komarev.com/ghpvc/?username=izumifreelance&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
-
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
 </div>
 
@@ -157,4 +152,9 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/izumifreelance/izumiFreelance/main/assets/header.gif" alt="Header" />
+</div>
+
+<div align="center">
+  <h2>🚀 Let's Connect and Build Something Amazing Together! 🚀</h2>
+  <img src="https://komarev.com/ghpvc/?username=izumifreelance&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
