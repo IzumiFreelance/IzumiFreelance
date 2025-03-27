@@ -127,11 +127,6 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
   <img src="https://github-profile-trophy.vercel.app/?username=izumifreelance&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" width="800" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>💡 Favorite Tech Quote 💡</h2>
