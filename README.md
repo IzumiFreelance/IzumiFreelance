@@ -92,16 +92,16 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/izumifreelance/AniGram">
+<a href="https://github.com/izumiFreelance/AniGram">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ecommerce-platform&theme=radical" />
 </a>
-<a href="https://github.com/izumifreelance/ai-task-manager">
+<a href="https://github.com/izumiFreelance/national-guard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=ai-task-manager&theme=radical" />
 </a>
-<a href="https://github.com/izumifreelance/blockchain-auth">
+<a href="https://github.com/izumiFreelance/mindful-me">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=blockchain-auth&theme=radical" />
 </a>
-<a href="https://github.com/izumifreelance/portfolio-nextjs">
+<a href="https://github.com/izumiFreelance/linkdin-clon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumifreelance&repo=portfolio-nextjs&theme=radical" />
 </a>
 </div>
