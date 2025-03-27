@@ -129,6 +129,8 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=izumifreelance&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/contributions?username=izumifreelance&theme=radical&hide_border=true" alt="Contribution Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
