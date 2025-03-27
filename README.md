@@ -105,6 +105,19 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=izumiFreelance&repo=linkdin-clon&theme=radical" />
 </a>
 </div>
+<div align="center">
+  <h2>⚡ My Contributions ⚡</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izumiFreelance/izumifreelance/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumiFreelance&theme=radical&hide_border=true&area=true&point=true" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=izumiFreelance&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=izumiFreelance&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/contributions?username=izumiFreelance&theme=radical&hide_border=true" alt="Contribution Stats" />
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -119,19 +132,7 @@ I'm a passionate **Full-Stack Developer** with a focus on building exceptional d
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <h2>⚡ My Contributions ⚡</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izumiFreelance/izumifreelance/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumiFreelance&theme=radical&hide_border=true&area=true&point=true" width="100%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=izumiFreelance&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=izumiFreelance&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/contributions?username=izumiFreelance&theme=radical&hide_border=true" alt="Contribution Stats" />
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
