@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=izumifreelance&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
